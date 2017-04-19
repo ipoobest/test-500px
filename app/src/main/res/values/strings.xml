@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">poobest.com</string>
+    <string name="open_drawer">open menu</string>
+    <string name="close_drawer">close menu</string>
+</resources>
